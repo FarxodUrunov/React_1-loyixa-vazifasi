@@ -1,0 +1,16 @@
+
+.block-1{
+	width: 1000px;
+	margin: 30px auto;
+	display: flex;
+}
+
+.block-1 .box{
+	display: flex;
+	flex-direction: column;
+}
+.block-1 .box img{
+	display: inline-block;
+	width: 320px;
+	margin: 10px;
+}
